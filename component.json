@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/biqing/MessengerJS",
+    "version": "v2.0.0",
+    "name": "Messenger",
+    "main": "Messenger.js"
+}
